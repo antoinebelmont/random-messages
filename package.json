@@ -1,0 +1,29 @@
+{
+  "name": "antoinebelmont_random-messages",
+  "version": "1.0.0",
+  "description": "Random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm",
+    "platzi"
+  ],
+  "author": "Antoine Belmont <antonio.moreno@fugodela.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoinebelmont/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/antoinebelmont/random-messages/issues"
+  },
+  "homepage": "https://github.com/antoinebelmont/random-messages#readme"
+}
